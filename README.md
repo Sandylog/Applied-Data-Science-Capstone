@@ -1,6 +1,7 @@
 # Applied Data Science Capstone 
 ## IBM Data Science Professional Certificate
 
+## Subject of the Project 
 Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward fo 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. 
 <br /> 
 ## Hypothesis
